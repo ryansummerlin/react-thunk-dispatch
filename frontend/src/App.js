@@ -1,3 +1,4 @@
+import React from 'react';
 import ArticleList from './components/ArticleList';
 import ArticleInput from './components/ArticleInput';
 import './App.css';
